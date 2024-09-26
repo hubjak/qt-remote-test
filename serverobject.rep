@@ -1,0 +1,5 @@
+// serverobject.rep
+class ServerObject
+{
+    PROP(int serverValue);
+};
